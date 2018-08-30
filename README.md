@@ -100,7 +100,7 @@ REST API's
 -will return the rental fee and other movie details.
 
 
-Dependencies
+dependencies
 ================
 
 {
