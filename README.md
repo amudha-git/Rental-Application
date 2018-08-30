@@ -121,4 +121,10 @@ Dependencies
     "winston-mongodb": "^3.0.0"
   }
 
+dev-dependencies
+===================
+{
+    "jest": "^22.2.2",  
+    "supertest": "^3.0.0"
+  }
 
