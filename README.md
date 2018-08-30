@@ -100,3 +100,25 @@ REST API's
 -will return the rental fee and other movie details.
 
 
+Dependencies
+================
+
+{
+    "bcrypt": "^1.0.3",
+    "compression": "^1.7.2",
+    "config": "^1.29.4",
+    "express": "^4.16.2",
+    "express-async-errors": "^2.1.0",
+    "fawn": "^2.1.5",
+    "helmet": "^3.13.0",
+    "joi": "^13.1.0",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.1.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.20.1",
+    "mongoose": "^5.0.2",
+    "winston": "^2.4.0",
+    "winston-mongodb": "^3.0.0"
+  }
+
+
