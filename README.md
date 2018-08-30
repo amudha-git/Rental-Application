@@ -93,8 +93,8 @@ REST API's
 /POST {customerId:String, movieId:String }
 -will return the rental details of the requested movie.
 
-'
-/api/returns'
+
+/api/returns
 ================
 /POST {customerId:String, movieId:String }
 -will return the rental fee and other movie details.
